@@ -1,0 +1,12 @@
+# Talkastranger - Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://talkastranger.com/sitemap.xml
+Sitemap: https://talkastranger.com/sitemap-main.xml
+Sitemap: https://talkastranger.com/sitemap-countries.xml
+Sitemap: https://talkastranger.com/sitemap-cities.xml
+
+# Disallow admin area
+Disallow: /admin
