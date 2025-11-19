@@ -1,0 +1,11 @@
+🚀 Talkastranger Location Generator using Replit AI Integrations
+
+
+📍 Generating 20 countries (1-20)...
+
+❌ Error: TypeError: pRetry.AbortError is not a constructor
+    at pRetry.retries (/home/runner/workspace/scripts/generate-all-locations.ts:115:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async pRetry (file:///home/runner/workspace/node_modules/p-retry/index.js:195:19)
+    at async generateCountriesBatch (/home/runner/workspace/scripts/generate-all-locations.ts:90:21)
+    at async main (/home/runner/workspace/scripts/generate-all-locations.ts:164:25)
